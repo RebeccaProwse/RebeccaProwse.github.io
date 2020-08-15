@@ -1,0 +1,18 @@
+h1,
+h2 {
+  font-family: 'Lora', serif;
+  color: #2C2E49;
+}
+
+.header-container {
+  background-color: #EEE0ED;
+}
+.body-text {
+  font-family: 'Raleway', sans-serif;
+  color: #2C2E49;
+}
+
+.profile-pic {
+  border-radius: 5px;
+  height: 420px;
+}
